@@ -9,7 +9,7 @@ import React from "react";
       <img src={movie.Poster} alt={movie.Title} />
     </div>
     <div>
-        <span>{movie.type}</span>
+        <span>{movie.Type}</span>
       <h3>{movie.Title}</h3>
     </div>
   </div>
